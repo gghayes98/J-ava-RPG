@@ -34,7 +34,7 @@ I found these websites useful in developing this software:
 
 * [w3Schools](https://www.w3schools.com/java/)
 * [GeeksforGeeks](https://www.geeksforgeeks.org/java/?_hsmi=176220481)
-* [StackOverflow](https://stackoverflow.com/)
+* [ChatGPT](https://chat.openai.com/)
 
 ## Future Work
 
